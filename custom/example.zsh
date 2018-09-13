@@ -9,4 +9,4 @@
 # cd $brainstormr
 #
 alias rp='cd ~/workspace/booking/psp-service'
-alias cl'cd ~/workspace/cloned'
+alias cl='cd ~/workspace/cloned'
